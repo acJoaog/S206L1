@@ -29,7 +29,7 @@ describe('Criando cenário de teste para o site gobalsqa', () => {
       cy.get('.btn-primary').should('be.disabled')
   });
 
-  it('Caso de teste: Registrando um usuário no site com sucesso', () => { 
+  it('Caso de teste: Registrando um usuário e realizando login no site com sucesso', () => { 
       
       let info = registrar()
       cy.get('#username').type(info[0])
