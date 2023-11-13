@@ -10,3 +10,5 @@ Executar a linha de spec do Exercício Teste de UI
 ```
 ./node_modules/.bin/cypress run --spec 'cypress/e2e/Teste-de-UI.cy.js/'
 ```
+
+Arquivo do relatório encontrado no "cypress/reports/html/index.html"
