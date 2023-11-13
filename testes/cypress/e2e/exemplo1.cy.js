@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 /*
-=======
 >>>>>>> 8decd86e6ceabae654b7646328c01611e049fd1f
 /// <reference types="cypress"/>
 
@@ -66,6 +64,3 @@ function registrar(){
 <<<<<<< HEAD
 }
 */
-=======
-}
->>>>>>> 8decd86e6ceabae654b7646328c01611e049fd1f
