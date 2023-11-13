@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 /*
+=======
+>>>>>>> 8decd86e6ceabae654b7646328c01611e049fd1f
 /// <reference types="cypress"/>
 
 //Este arquivo é um exemplo para a turma C317 utilizar como base na criação de testes de UI com Cypress.
@@ -60,5 +63,9 @@ function registrar(){
   cy.get('.ng-binding').should('contain.text','Registration successful')
 
   return userInfo
+<<<<<<< HEAD
 }
 */
+=======
+}
+>>>>>>> 8decd86e6ceabae654b7646328c01611e049fd1f
