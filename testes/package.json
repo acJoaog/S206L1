@@ -1,11 +1,9 @@
 {
   "dependencies": {
     "cypress": "^13.3.2"
-<<<<<<< HEAD
+
   },
   "devDependencies": {
     "cypress-mochawesome-reporter": "^3.6.1"
-=======
->>>>>>> 8decd86e6ceabae654b7646328c01611e049fd1f
   }
 }
